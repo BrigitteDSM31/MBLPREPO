@@ -1,0 +1,93 @@
+/* Set the background color of body to tan */
+body {
+    background-color: rgba(243, 9, 192, 0.174);
+  }
+  /* definicion de clase para etiqueta html */
+  .textcentrado {
+    color: #ff0062ca; 
+    text-align: center;
+  }
+
+  /* LISTA Y MENU */
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ff0062ca;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #/* Set the background color of body to tan */
+body {
+    background-color: white;
+  }
+  /* definicion de clase para etiqueta html */
+  .textcentrado {
+    color: #ff0062ca; 
+    text-align: center;
+  }
+
+  /* LISTAS Y MENUS */
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ff0062ca;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111111;
+  }
+  /* On screens that are 992px or less, set the background color to blue */
+  @media screen and (max-width: 992px) {
+    body {
+      background-color: white;
+    }
+  }
+  
+  /* On screens that are 600px or less, set the background color to olive */
+  @media screen and (max-width: 600px) {
+    body {
+      background-color: #ff0062ca ;
+    }
+  };
+  }
+  /* On screens that are 992px or less, set the background color to blue */
+  @media screen and (max-width: 992px) {
+    body {
+      background-color: #ff0062ca;
+    }
+  }
+  
+  /* On screens that are 600px or less, set the background color to olive */
+  @media screen and (max-width: 600px) {
+    body {
+      background-color: #ff0062ca;
+    }
+  }
